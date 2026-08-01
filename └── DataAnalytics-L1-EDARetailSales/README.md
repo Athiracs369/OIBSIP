@@ -21,7 +21,7 @@ Exploratory Data Analysis on retail sales dataset to uncover patterns, customer 
 ## Key Insights
 | Insight | Finding |
 |---------|---------|
-| Top Category | Electronics ($156,905, 34.4%) |
+| Top Category | Electronics (156,905, 34.4%) |
 | Best Month | May 2023 |
 | Best Quarter | Q4 2023 |
 | Largest Age Group | 45-54 (225 customers) |
